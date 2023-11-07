@@ -82,7 +82,7 @@ Jika kedua kondisi di atas tidak terpenuhi, maka bilangan terbesar adalah bilang
 
 ### Latihan 2
 #### Hasil Program
-<img src="Screenshot/Lab3py_Latihan2.png">
+<img src="labpy03/srenshoot 2.png">
 
 ### Latihan 3
 #### Hasil Program
