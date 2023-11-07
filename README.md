@@ -78,7 +78,7 @@ Jika kedua kondisi di atas tidak terpenuhi, maka bilangan terbesar adalah bilang
 ## Tugas Labpy03
 ### Latihan 1
 #### Hasil Program
-<img src="Screenshot/Lab3py_Latihan1.png">
+<img src="labpy03/srenshoot 1.png">
 
 ### Latihan 2
 #### Hasil Program
