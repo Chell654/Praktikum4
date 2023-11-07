@@ -55,7 +55,7 @@ menghasilkan output sebagai berikut:
 2. Hasil akhirnya adalah kode ini akan mencetak bilangan acak yang kurang dari 0.5 sebanyak n kali sesuai dengan jumlah yang dimasukkan oleh pengguna.
 
 #### Hasil program
-<img src="Screenshot/Lab3_Latihan2.png">
+<img src="Stugas  perulangan/ss 2 perulangan.png">
 
 
 ## Tugas Labspy_02
