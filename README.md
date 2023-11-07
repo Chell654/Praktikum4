@@ -42,7 +42,7 @@ menghasilkan output sebagai berikut:
 1. Kode ini mencetak pola tabel 10x10 dengan angka yang dihasilkan dari penjumlahan variabel i dan j dalam loop. Setiap baris mencetak hasil penjumlahan i + j, dengan angka-angka tersebut dipisahkan oleh tab ("\t"), dan kemudian mencetak baris baru untuk mengawali baris baru.
 
 #### Hasil program
-<img src="Screenshot/Lab3_Latihan1.png">
+<img src="tugas  perulangan/ss 1 perulangan.png">
 
 
 ### Latihan 2
