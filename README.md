@@ -73,7 +73,7 @@ Jika kedua kondisi di atas tidak terpenuhi, maka bilangan terbesar adalah bilang
 <img src="labpy02/srenshoot labpy2.png">
 
 ### Flowchart
-<img src="labpy02/Flowchart praktikum2.png">
+<img src="labpy02/sreenshot flowchart.png">
 
 ## Tugas Labpy03
 ### Latihan 1
